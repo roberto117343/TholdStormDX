@@ -4,7 +4,7 @@ A Python-based bioinformatics engine for the **determination and optimization of
 
 <p align="center">
   <img src="https://github.com/roberto117343/TholdStormDX/blob/main/Logo%20GitHub.png" 
-       alt="TholdStormDX Logo" width="200"/>
+       alt="TholdStormDX Logo" height = "560" width="251"/>
 </p>
 
 <p align="center">
