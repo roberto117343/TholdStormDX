@@ -3,7 +3,7 @@
 A Python-based bioinformatics engine for the **determination and optimization of diagnostic cut-off points** in individual biomarkers and **multimarker panels** using advanced stochastic optimization.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roberto117343/TholdStormDX/main/logo.png" 
+  <img src="https://github.com/roberto117343/TholdStormDX/blob/main/Logo%20GitHub.png" 
        alt="TholdStormDX Logo" width="200"/>
 </p>
 
