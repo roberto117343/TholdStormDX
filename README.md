@@ -222,7 +222,7 @@ Results show:
 
 ## 📜 How to Cite
 
-> Reinosa, Roberto (2026). *Validación metodológica y clínica de TholdStormDX v0.0.1: Un motor estocástico avanzado para la optimización de umbrales y paneles multimarcador aplicado a la oncología.*
+> *Coming Soon*
 
 ---
 
