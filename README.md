@@ -15,7 +15,11 @@ A Python-based bioinformatics engine for the **determination and optimization of
 
 <p align="center">
   <a href="https://github.com/roberto117343/TholdStormDX/releases">
-    <img src="https://img.shields.io/badge/Download-Executables-brightgreen?style=for-the-badge&logo=github" alt="Download Executables"/>
+    <img src="https://img.shields.io/badge/Download-Windows%20Executable-blue?style=for-the-badge&logo=windows" alt="Download Windows"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/roberto117343/TholdStormDX/releases">
+    <img src="https://img.shields.io/badge/Download-Linux%20Executable-green?style=for-the-badge&logo=linux" alt="Download Linux"/>
   </a>
 </p>
 
