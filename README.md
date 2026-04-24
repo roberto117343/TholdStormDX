@@ -130,7 +130,6 @@ TholdStormDX is distributed as **standalone executables**:
 - 🐧 Linux executable  
 - 🪟 Windows executable  
 
-⚠️ The software is **no longer cross-platform via Java**.  
 Each operating system requires its corresponding binary.
 
 No installation of Python is required for end users.
