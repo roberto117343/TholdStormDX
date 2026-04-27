@@ -223,7 +223,7 @@ Results show:
 
 > * Methodological and Clinical Validation of TholdStormDX v0.0.1: An Advanced Stochastic Engine for the Optimization of Thresholds and Multimarker Panels Applied to Oncology
 Roberto Reinosa
-medRxiv 2026.04.24.26351692; doi: https://doi.org/10.64898/2026.04.24.26351692 *
+medRxiv 2026.04.24.26351692; doi: https://doi.org/10.64898/2026.04.24.26351692
 
 ---
 
